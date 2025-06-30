@@ -1,18 +1,18 @@
 
 ---
 
-## ✅ File 2: `report.md`
+##  File 2: `report.md`
 
 ```markdown
-# 📄 Wireshark Packet Capture - Task 5 Report
+#  Wireshark Packet Capture - Task 5 Report
 
-## 🎯 Task Summary
+## Task Summary
 
 Captured live network traffic using Wireshark and filtered the results to observe different protocols in action.
 
 ---
 
-## 🔍 Protocols Identified
+##  Protocols Identified
 
 ### 1. **DNS**
 - Used to resolve domain names like `google.com` to IP addresses.
@@ -31,9 +31,9 @@ Captured live network traffic using Wireshark and filtered the results to observ
 
 ---
 
-## 📂 File Details
+##  File Details
 
-- `capture-task5.pcap`: Exported packet capture file (duration: ~1 min).
+- `task5.pcap`: Exported packet capture file (duration: ~1 min).
 - Interfaces: Captured on `wlan0`.
 - Total packets: ~500+ depending on activity.
 
